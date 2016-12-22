@@ -5,9 +5,9 @@ html {
 }
 
 body {
-    background: #f4f4f4;
+    background: #EFEFEF;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    color: #545454;
+    color: #222;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
@@ -16,12 +16,13 @@ body {
 }
 
 .jumbotron {
-    background: #f4f4f4
+    background: #EFEFEF
 }
 
 #maincontent {
     padding:2em 2em 4em;
-    background: #DCD0CD
+    background: #A9A9A9;
+    color: #EFEFEF
 }
 
 #disclaimer {
